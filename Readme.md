@@ -1,6 +1,3 @@
-
-## Lab 02 Programación VGA
-
 ## Introducción:
 
 Elaboración de un driver VGA, utilizando el sistema operativo didáctico xv6. 
